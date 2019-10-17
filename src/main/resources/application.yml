@@ -1,0 +1,6 @@
+amazon:
+  dynamodb:
+    endpoint: http://dynamodb:8000
+    region: us-west-2
+  credential:
+    profile: default
